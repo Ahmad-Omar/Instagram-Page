@@ -1,0 +1,75 @@
+/* Start Navbar Style */
+.navbar {
+    width: 216px;
+    box-shadow: 9px 0px 25px -11px #ccccccb5;
+    height: 100vh;
+}
+.navbar .logo {
+    margin: 38px 0 50px 14px;
+}
+.navbar .logo img.inst-text {
+    position: relative;
+    top: 4px;
+    margin-left: 15px;
+}
+.navbar .nav-items {
+    margin-top: 50px;
+}
+.navbar .nav-items .nav-item {
+    list-style-type: none;
+    padding: 12px 26px;
+    border-left: 5px solid #fff;
+    margin-bottom: 4px;
+}
+.navbar .nav-items .nav-item i {
+    position: relative;
+}
+.navbar .nav-items .nav-item i.fa-satellite-dish::after {
+    content: "\f144";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 100;
+    color: rgb(247 62 96 / 78%);
+    font-size: 10px;
+    position: absolute;
+    top: -4px;
+    left: 16px;
+}
+.navbar .nav-items .nav-item i.fa-comment-alt::after {
+    content: "8";
+    color: #ffffff;
+    font-size: 10px;
+    position: absolute;
+    top: -6px;
+    left: 18px;
+    background-color: rgb(247 62 96 / 78%);
+    padding: 0 3px;
+    border-radius: 50%;
+}
+.navbar .nav-items .nav-item i.fa-bell::after {
+    content: "5";
+    color: #ffffff;
+    font-size: 10px;
+    position: absolute;
+    top: -3px;
+    left: 10px;
+    background-color: rgb(247 62 96 / 78%);
+    padding: 0 3px;
+    border-radius: 50%;
+}
+.navbar .nav-items .nav-item.active, .navbar .nav-items .nav-item:hover {
+    background-color: #F9F9F9;
+    border-color: #F73E60;
+}
+.navbar .nav-items .nav-item i {
+    font-size: 24px;
+    margin-right: 16px;
+    text-shadow: 1px 0px 4px rgb(123 123 123 / 50%);
+}
+.navbar .nav-items .nav-item a {
+    text-decoration: none;
+    color: #9A9999;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+/* End Navbar Style */

@@ -1,0 +1,77 @@
+/* Start Stories Style */
+.stories {
+    display: flex;
+    align-items: center;
+    padding: 25px 12px 0 42px;
+}
+.stories .add-icon {
+    background-color: #F73E60;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    overflow: hidden;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stories .add-icon i {
+    border: 1px dashed #fff;
+    font-size: 10px;
+    padding: 4px 4px;
+}
+.stories .add-story {
+    text-align: center;
+    margin-right: 18px;
+}
+.stories .add-story span {
+    font-size: 11px;
+    color: #9a9999;
+}
+.stories .stories-items {
+    display: flex;
+    justify-content: space-around;
+}
+.stories .stories-items .circle-side {
+    position: absolute;
+    top: -2px;
+}
+.stories .stories-items .circle-side span {
+    color: #817F7F;
+    font-size: 12px;
+    margin-left: 14px;
+}
+.stories .stories-items .circle-img {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #fff;
+    box-sizing: border-box;
+}
+.stories .stories-items .circle-img img {
+    width: 100%;
+}
+.stories .stories-items .story {
+    position: relative;
+    margin: 7px;
+}
+.stories .stories-items .rectangle-side {
+    z-index: -1;
+    text-align: right;
+}
+.stories .stories-items .rectangle-side span {
+    color: #ccc;
+    font-size: 12px;
+}
+.stories .stories-items .rectangle-side .rectangle-img {
+    /* width: 26%; */
+    /* height: 82px; */
+    overflow: hidden;
+}
+.stories .stories-items .rectangle-side .rectangle-img img {
+    width: 100%;
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+}
+/* End Stories Style */

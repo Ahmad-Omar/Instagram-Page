@@ -1,0 +1,65 @@
+/* Start Header Style */
+header i {
+    color: #F73E60;
+    font-size: 30px;
+}
+header {
+    padding: 14px 0;
+    box-shadow: 0px 9px 25px -19px #f73e6047;
+}
+header .header-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+header .search input {
+    border: none;
+    background-color: #F5F5F5;
+    height: 34px;
+    width: 330px;
+    border-radius: 30px;
+    padding: 0px 24px;
+    box-sizing: border-box;
+}
+header .search {
+    position: relative;
+}
+header .search input::placeholder {
+    color: #d3d3d3;
+}
+header .search i {
+    font-size: 14px;
+    position: absolute;
+    top: 9px;
+    right: 16px;
+}
+.profile-section {
+    display: flex;
+    align-items: center;
+}
+.profile-section .profile-pic {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.profile-section .profile-pic img {
+    width: 100%;
+}
+.profile-section .profile-info {
+    margin-left: 16px;
+}
+.profile-section .profile-info .profile-name {
+    color: #F73E60;
+    margin: 0 0 3px;
+    font-size: 12px;
+}
+.profile-section .profile-info span {
+    color: #d8d8d8;
+    display: block;
+    font-size: 10px;
+}
+.profile-section .profile-info span:first-of-type{
+    margin-bottom: 1px;
+}
+/* End Header Style */
