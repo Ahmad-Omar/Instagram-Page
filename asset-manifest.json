@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Instagram-Page/static/css/main.990803b9.chunk.css",
+    "main.js": "/Instagram-Page/static/js/main.6a96ce2f.chunk.js",
+    "main.js.map": "/Instagram-Page/static/js/main.6a96ce2f.chunk.js.map",
+    "runtime-main.js": "/Instagram-Page/static/js/runtime-main.984d827e.js",
+    "runtime-main.js.map": "/Instagram-Page/static/js/runtime-main.984d827e.js.map",
+    "static/js/2.a8c5c64c.chunk.js": "/Instagram-Page/static/js/2.a8c5c64c.chunk.js",
+    "static/js/2.a8c5c64c.chunk.js.map": "/Instagram-Page/static/js/2.a8c5c64c.chunk.js.map",
+    "index.html": "/Instagram-Page/index.html",
+    "static/css/main.990803b9.chunk.css.map": "/Instagram-Page/static/css/main.990803b9.chunk.css.map",
+    "static/js/2.a8c5c64c.chunk.js.LICENSE.txt": "/Instagram-Page/static/js/2.a8c5c64c.chunk.js.LICENSE.txt",
+    "static/media/1.9e391268.jpg": "/Instagram-Page/static/media/1.9e391268.jpg",
+    "static/media/2.e1917421.jpg": "/Instagram-Page/static/media/2.e1917421.jpg",
+    "static/media/3.380e3832.png": "/Instagram-Page/static/media/3.380e3832.png",
+    "static/media/4.c326fa16.png": "/Instagram-Page/static/media/4.c326fa16.png",
+    "static/media/5.ad7a58f2.jpg": "/Instagram-Page/static/media/5.ad7a58f2.jpg",
+    "static/media/Instagram-logo.996f4ea9.svg": "/Instagram-Page/static/media/Instagram-logo.996f4ea9.svg",
+    "static/media/Logo.9d3736aa.svg": "/Instagram-Page/static/media/Logo.9d3736aa.svg",
+    "static/media/tech.2ceb89d0.png": "/Instagram-Page/static/media/tech.2ceb89d0.png",
+    "static/media/truck.29115781.jpg": "/Instagram-Page/static/media/truck.29115781.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.984d827e.js",
+    "static/js/2.a8c5c64c.chunk.js",
+    "static/css/main.990803b9.chunk.css",
+    "static/js/main.6a96ce2f.chunk.js"
+  ]
+}
